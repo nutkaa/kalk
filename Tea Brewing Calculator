@@ -1,0 +1,7 @@
+<div class="omni-calculator" data-calculator="food/tea-brewing" data-width="300" data-config='{}' data-currency="PLN" data-show-row-controls="false" data-version="3" data-t="1700746670415">
+  <div class="omni-calculator-header">Tea Brewing Calculator</div>
+  <div class="omni-calculator-footer">
+    <a href="https://www.omnicalculator.com/food/tea-brewing" target="_blank"><img alt="Omni" class="omni-calculator-logo" src="https://cdn.omnicalculator.com/embed/omni-calculator-logo-long.svg" /></a>
+  </div>
+</div>
+<script async src="https://cdn.omnicalculator.com/sdk.js"></script>
